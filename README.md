@@ -47,7 +47,7 @@ This project is a simple web application that allows users to create their own c
 
 ##### Deployment
 
-This app is build for Test Deployment on [Arlink](https://arlink.arweave.net) & you could access it via the following URL: [Crypto Wallet App](https://webwallet-chi.vercel.app/)
+This app is build for Test Deployment on [Arlink](https://arlink.arweave.net).
 
 ### Acknowledgments
 
