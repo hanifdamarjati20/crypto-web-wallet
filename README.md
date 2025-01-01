@@ -30,7 +30,7 @@ This project is a simple web application that allows users to create their own c
 1. Clone the repository:
     ```bash
     https://github.com/hanifdamarjati20/crypto-web-wallet.git
-    cd asc-wgen
+    cd crypto-web-wallet
     ```
 
 2. Install dependencies:
